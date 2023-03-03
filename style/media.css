@@ -1,0 +1,32 @@
+@media(max-width:576px) {
+    .tabsPanel {
+        width: 300px;
+        height: 450px;
+    }
+
+    .tabsLink {
+        font-size: 12px;
+    }
+
+    .arrowClock {
+        width: 200px;
+        height: 200px;
+        margin-bottom: 40px;
+
+    }
+
+    .s::before {
+        height: 57%;
+        top: 13px;
+    }
+
+    .seclock {
+        display: none;
+    }
+
+    .test {
+        position: fixed;
+        top: 69px;
+        right: 138px;
+    }
+}
